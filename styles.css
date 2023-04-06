@@ -31,3 +31,8 @@ h5 {
   justify-content: space-evenly;
   align-items: center;
 }
+
+#gamescreen {
+  width: 50vh;
+  height: 50vh;
+}
